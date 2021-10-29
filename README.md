@@ -1,6 +1,6 @@
 # Before anything.
 - if u like my projects Follow my Account and give my repo star :D
-- my discord if u want any help 0xAPI48#5072
+- my discord if u want any help ...
 
 # some concepts you need to know before we start the Algorithm Explanation
 - this Algorithm have 3 main moves which is:
